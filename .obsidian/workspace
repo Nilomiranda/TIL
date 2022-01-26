@@ -7,8 +7,11 @@
         "id": "efa00de3c738824c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "eslint/Ignoring code block.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "eslint/Ignoring code block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,8 @@
   },
   "active": "efa00de3c738824c",
   "lastOpenFiles": [
+    "eslint/Ignoring code block.md",
+    "mongo/Working with defaults in findAndModify operations.md",
     "mongo/mongoose findAndModify helpers limited support for defaults and validations.md",
     "html/Interrupting form submission.md",
     "README.md",
