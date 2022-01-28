@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mysql/Inverting boolean values.md",
+            "file": "express/Differences between res.location and res.redirect.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql/Inverting boolean values.md",
+                "file": "express/Differences between res.location and res.redirect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "efa00de3c738824c",
   "lastOpenFiles": [
+    "express/Differences between res.location and res.redirect.md",
     "mysql/Inverting boolean values.md",
     "Untitled.md",
     "eslint/Ignoring code block.md",
