@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "express/Differences between res.location and res.redirect.md",
+            "file": "mongo/Mongoose object destructuring.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "express/Differences between res.location and res.redirect.md",
+                "file": "mongo/Mongoose object destructuring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "efa00de3c738824c",
   "lastOpenFiles": [
+    "mongo/Mongoose object destructuring.md",
     "express/Differences between res.location and res.redirect.md",
     "mysql/Inverting boolean values.md",
     "Untitled.md",
