@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mongo/Mongoose object destructuring.md",
+            "file": "terminal/Killing process locking port.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mongo/Mongoose object destructuring.md",
+                "file": "terminal/Killing process locking port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "efa00de3c738824c",
   "lastOpenFiles": [
+    "terminal/Killing process locking port.md",
     "mongo/Mongoose object destructuring.md",
     "express/Differences between res.location and res.redirect.md",
     "mysql/Inverting boolean values.md",
@@ -96,7 +97,6 @@
     "mongo/Working with defaults in findAndModify operations.md",
     "mongo/mongoose findAndModify helpers limited support for defaults and validations.md",
     "html/Interrupting form submission.md",
-    "README.md",
-    "mongo/mongoose upsert.md"
+    "README.md"
   ]
 }
